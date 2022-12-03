@@ -4,10 +4,9 @@
 
 CodePen URL : https://codepen.io/bobyin22/pen/ZExErbb
 
-GitHub :
 
 網頁說明：
 
-1.運用 HTML、CSS讓網頁顯示創作名片
+1.以figma佈局，運用HTML標籤、CSS屬性完成設計版面
 
 2.色調模擬Mac Terminal使用介面刻出卡片樣式
